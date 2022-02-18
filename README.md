@@ -8,7 +8,7 @@ A python client to fetch public financial data from the web.  Included categorie
 # Example Usage
 > Note: strucure uses declarative functional format 
 > 
-> [package] -> [target_data] -> [get/snapshot]
+> - [package] -> [target_data] -> [get/snapshot]
   
 > Note: get() function is for single tickers and snapshot() is for all tickers (in universe)
 ```
