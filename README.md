@@ -1,7 +1,7 @@
 # easy-finweb
 A python client to fetch public financial data from the web.  Included categories below.
-- sp500
-- earnings
+- sp500 (sector and ticker info)
+- earnings 
 - highest option iv
 - market suspensions
 
